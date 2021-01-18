@@ -16,4 +16,4 @@ In our project, we will conduct the following parts step by step:
 - Modeling using LDA, Logistic Regression, Neural Network
 
 ## Discussion
-In our modeling part, we have encounted a problem, that is unbalanced predicted variables. In other words, more than 85% of the predicted variables are 0, but only 15% of them are 1. This led to the gradient vanishing problem, and we are still working on it.
+In our modeling part, we have encounted a problem, that is unbalanced predicted variables. In other words, more than 85% of the predicted variables are 0, but only 15% of them are 1. This led to the gradient vanishing problem. We are trying to figure it out, and we'll update findings as soon as we find the solutions.
