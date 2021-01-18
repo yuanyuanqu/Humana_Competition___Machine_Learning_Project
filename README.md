@@ -10,10 +10,12 @@ In this project, we are trying to use the data provided and potentially suppleme
 - 2020_Competition_Data_Documentation	= File Statistics, File Layout, descritions of attributes for each event type  
 
 ## Model Description
-In our project, we will conduct the following parts step by step:
+In this project, I will conduct the following parts step by step:
 - Exploratory Data Analysis
 - Feature Engineering and Feature Selection
 - Modeling using LDA, Logistic Regression, Neural Network
 
 ## Discussion
-In our modeling part, we have encounted a problem, that is unbalanced predicted variables. In other words, more than 85% of the predicted variables are 0, but only 15% of them are 1. This led to the gradient vanishing problem. We are trying to figure it out, and we'll update findings as soon as we find the solutions.
+In the modeling part, I have encounted a problem, that is unbalanced predicted variables - more than 85% of the predicted variables are 0, but only 15% of them are 1. This led to the result that my model tends to predict 0 all the time. 
+
+My next step is to use Autoencoders to solve this problem. I will upload the findings ASAP.
