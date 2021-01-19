@@ -1,4 +1,4 @@
-# Predict_Transportation_Challenge___Machine_Learning_Project-
+# Humana_Competition___Machine_Learning_Project
 ## Project Description
 Social determinants of health are the conditions in the environments in which people live, learn, work, play, worship and age that affect a wide range of health, functioning and quality-of-life outcomes and risks. Transportation challenges is one of these determinants.
 
